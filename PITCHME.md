@@ -10,7 +10,8 @@
 ---
 
 ### どこの学会？
-IEEE Consumer Communications & Networking Conference  
+IEEE Consumer Communications  
+& Networking Conference  
 @ラスベガス
 
 ---
@@ -27,15 +28,26 @@ IEEE Consumer Communications & Networking Conference
 ---
 
 ### Rustってどんな言語？
-____
-
 
 ---
 
-### 「安全性を重視した設計」
+### 強み：「安全性を重視した設計」
 
 ---
 
 ### Loved部門　第 __1__ 位!! 
 
-##### Developer Survey Results 2019
+##### @Developer Survey Results 2019
+---
+
+### とりあえず Hello World!
+
+```
+fn main() {
+    // 世界よ、こんにちは
+    println!("Hello, world!");
+}
+```
+---
+
+
