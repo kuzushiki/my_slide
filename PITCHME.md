@@ -9,6 +9,12 @@
 
 ---
 
+### どこの学会？
+IEEE Consumer Communications & Networking Conference
+@ラスベガス
+
+---
+
 ### 資料チラ見せ
 ※撮影はNGでお願いします
 
@@ -20,4 +26,13 @@
 
 ---
 
-### Rustについて
+### Rustってどんな言語？
+__「安全性を重視した設計」__
+
+
+---
+
+### Rustってどんな言語？
+
+Loved部門　第 __1__ 位!!
+##### Developer Survey Results 2019
